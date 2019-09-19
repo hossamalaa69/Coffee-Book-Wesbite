@@ -1,0 +1,128 @@
+body
+{
+background-image: url("cb.jpg");
+background-size: 100%;
+}
+
+.d1
+{
+
+margin-left: 400px;
+
+height: 500px;
+width: 400px;
+background-color:  black;
+border-radius: 5%;
+}
+
+.imgtop
+{
+border-radius: 50%;
+height:65px;
+width: 65px;
+margin-left: 572px;
+position: relative;
+top: 25px;
+}
+
+.h11
+{
+color: white;
+font-family: serif;	
+margin-left: 145px;
+font-size: 30px;
+}
+.p11
+{
+color:white;
+font-family: serif;	
+margin-left: 3px;
+font-size: 18px;
+}
+.b11
+{
+    margin-left: 165px;
+	color: white;
+	font-size: 16px;
+	border-radius: 12%;
+    background-color: purple;
+    font-family: serif;	
+    cursor:pointer;
+    width: 70px;
+    height: 60px;
+}
+.po
+{
+color:white;
+font-family: serif;	
+margin-left: 3px;
+font-size: 18px;
+
+}
+
+.bg
+{
+
+border-color: red;
+background-color: red;
+border-radius: 12%;
+margin-left: 190px;
+font-family: serif;	
+cursor:pointer;
+color: white;
+}
+
+.bf
+{
+border-color: blue;
+background-color: blue;
+border-radius: 12%;
+margin-left: 52px;
+font-family: serif;	
+cursor:pointer;
+	color: white;
+
+}
+.pup
+{
+color:white;
+font-family: serif;	
+margin-left: 3px;
+font-size: 18px;
+
+}
+
+.b22
+{
+    margin-left: 52px;
+	color: white;
+	border-radius: 10%;
+	border-color: brown;
+    background-color: brown;
+    font-family: serif;	
+    cursor:pointer;
+
+}
+
+hr
+{
+border-color: fuchsia;
+
+}
+
+input
+{
+background-color: black;
+color:white;
+width: 190px;
+height: 25px;
+}
+.ank
+{color: white;}
+
+
+.CopyRights
+{
+color: white;
+ z-index: 1;   
+}

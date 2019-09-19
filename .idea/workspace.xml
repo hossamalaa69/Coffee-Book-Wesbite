@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e698b4d5-d151-4e31-bfdf-6e9cc9666a2f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PhZsI4c7qycZywCzK8rLhmlqjD" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\Courses\Web Development\Project\CoffeeBook Website\public\images" />
+      <recent name="D:\Study\Courses\Web Development\Project\CoffeeBook Website\public\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Project Web\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e698b4d5-d151-4e31-bfdf-6e9cc9666a2f" name="Default Changelist" comment="" />
+      <created>1566328494010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566328494010</updated>
+      <workItem from="1566328497671" duration="394000" />
+      <workItem from="1566386728456" duration="1732000" />
+      <workItem from="1566389653504" duration="18000" />
+      <workItem from="1566389709115" duration="641000" />
+      <workItem from="1566390366601" duration="29000" />
+      <workItem from="1566390422950" duration="78000" />
+      <workItem from="1566686978837" duration="31000" />
+      <workItem from="1566730948264" duration="7333000" />
+      <workItem from="1566987940022" duration="6683000" />
+      <workItem from="1567279165718" duration="213000" />
+      <workItem from="1567279504547" duration="2249000" />
+      <workItem from="1567281796392" duration="144000" />
+      <workItem from="1567282680100" duration="3217000" />
+      <workItem from="1567285942342" duration="375000" />
+      <workItem from="1567600847329" duration="764000" />
+      <workItem from="1568136167826" duration="203000" />
+      <workItem from="1568147238425" duration="220000" />
+      <workItem from="1568147474445" duration="1446000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

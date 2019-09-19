@@ -1,0 +1,27 @@
+
+img
+{
+	cursor: pointer;
+}
+
+
+
+.link1
+{color: black;}
+
+.menu1
+{background-color: black;}
+
+.listcol
+{color:white;
+}
+
+
+.imagpost
+{
+	position: relative;
+	height:300px;
+	width:687px;
+	margin-left: 400px;
+	top: 57px;
+}
